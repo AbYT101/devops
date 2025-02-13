@@ -12,7 +12,7 @@ vpc_id                                      = "vpc-1cb41078"
 nativetouch_ips                             = [
                                                "1.1.2.2", # tom-cat
                                                "1.1.1.1", # tom-cat
-                                               "172.20.10.2/29", # Abrilla
+                                               "1.1.1.1", # Abrilla
                                                "174.112.206.101", # l
                                                "1.1.1.1", # k
                                                "74.58.182.59/32", # Elizabeth home
