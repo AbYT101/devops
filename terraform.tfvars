@@ -59,3 +59,5 @@ github_common                               = "github_common"
 # PrivateIPs
 internal_ips                                = ["192.168.30.0/24", "10.0.0.0/16", "10.1.0.0/16"]
 internal_common                             = "internal_common"
+
+  { name = "Abraham", ip = "12.2.2.2" }
