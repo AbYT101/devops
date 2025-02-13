@@ -10,7 +10,7 @@ vpc_id                                      = "vpc-1cb41078"
 # Nativetouch whitelisted IPs
 #-------------------------------------------------------------------------
 nativetouch_ips                             = [
-                                               "11.2.2.2/23", # Elithabet2
+                                               "11.2.2.2/24", # Elithabet2
                                                "12.2.2.2/21", # Elithabet
                                                "1.2.2.4", # tom-cat
                                                "1.2.2.3", # tom-cat
