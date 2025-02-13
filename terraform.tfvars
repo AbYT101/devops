@@ -8,3 +8,4 @@
   { name = "test", ip = "10.1.1.1" }
   { name = "what'sup", ip = "12.2.2.2" }
   { name = "12", ip = "12.2.2.2" }
+  { name = "test2", ip = "2.2.2.2" }
