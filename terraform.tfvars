@@ -12,8 +12,6 @@ vpc_id                                      = "vpc-1cb41078"
 nativetouch_ips                             = [
  "9.9.9.9/32", # Test
 
- "5.5.5.5/32", # Abraham
-
 "72.45.121.127/32", # Ian Home
 "67.70.135.147/32", # Ian Montreal
 "175.176.49.95/32", # Patrick2                                               
