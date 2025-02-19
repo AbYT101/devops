@@ -10,6 +10,8 @@ vpc_id                                      = "vpc-1cb41078"
 # Nativetouch whitelisted IPs
 #-------------------------------------------------------------------------
 nativetouch_ips                             = [
+ "9.9.9.9/32", # Test
+
  "5.5.5.5/32", # Abraham
 
 "72.45.121.127/32", # Ian Home
