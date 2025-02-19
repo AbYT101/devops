@@ -28,9 +28,7 @@ nativetouch_ips                             = ["96.23.112.4/32", # Ariel
                                                "68.67.61.2/32", #co-workspace Montreal
                                                "174.112.206.173/32", # Ethan
                                                "64.203.81.82/32",
-                                                "172.20.10.2/32", #Mistir
-                                                "71.163.181.32/32", #Abraham
-                                               "64.203.81.98/32" ] #co-workspace Ottawa
+                                                "172.20.10.2/32", #Mistir                                               "64.203.81.98/32" ] #co-workspace Ottawa
 nativetouch_common                          = "nativetouch_common"
 #-------------------------------------------------------------------------
 # NAT IPs
