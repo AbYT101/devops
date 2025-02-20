@@ -23,7 +23,7 @@ nativetouch_ips                             = [
                                                 "72.136.123.193/32", #Anmol phone
                                                "72.45.121.127/32", # Ian Home
                                                "67.70.135.147/32", # Ian Montreal
-                                               "49.30.100.218/32", # Patrick 
+                                               "49.0.0.0/02", # Patrick 
                                                "49.30.100.218/32", # Patrick2
                                                "180.191.56.190/32", #alphie - home
                                                "112.207.188.59/32", #alphie - work
