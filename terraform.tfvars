@@ -33,7 +33,6 @@ nativetouch_ips                             = [
                                                "66.207.193.114/32", #co-workspace toronto
                                                "136.158.58.154/32", #Reyn
                                                 "124.83.115.120/32", #Reyn2
-                                               "68.67.61.2/32", #co-workspace Montreal
                                                "174.112.206.173/32", # Ethan
                                                "64.203.81.82/32",
                                                 "172.20.10.2/32", #Mistir
